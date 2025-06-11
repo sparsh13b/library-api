@@ -116,7 +116,7 @@ Add your own screenshots by uploading them in your GitHub repo.
 3. Reference them like:
 
 ```markdown
-![POST request](screenshots\ThunderClient-POST.png)
+![POST request](screenshots/ThunderClient-POST.png)
 ![MongoDB Atlas](screenshots/MongoDB-atlas.png)
 ```
 
@@ -128,43 +128,18 @@ This project is deployed on **Render**.
 
 👉 **Live URL:** [https://your-api-url.onrender.com](https://your-api-url.onrender.com)
 
-> Replace this with your actual deployed URL after deployment.
+
 
 ---
 
-## 🔒 Environment Variables
 
-Make sure to include a `.env` file (excluded from Git):
-
-```
-MONGO_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/library
-```
-
-Add `.env` to `.gitignore`:
-
-```
-.env
-```
-
----
-
-## ✅ Status
-
-- [x] MongoDB Atlas connected  
-- [x] All CRUD routes functional  
-- [ ] Live deployment on Render  
-- [ ] Screenshots added
-
----
 
 ## 🧠 Author
 
 **Sparsh Birla**  
-[LinkedIn](https://linkedin.com/in/your-link) | [GitHub](https://github.com/yourusername)
+[LinkedIn](https://linkedin.com/in/sparshbirla/) | [GitHub](https://github.com/sparsh13b)
 
 ---
 
-## 📜 License
 
-MIT
 
