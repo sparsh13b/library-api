@@ -117,7 +117,7 @@ Base URL: `/api/books`
 
 ### GET request in deployed website
 <p align="center">
-<img src="screenshots/GET-request.png" alt="MongoDB Atlas" width="600" height="300"/>
+<img src="screenshots/GET-request.png" alt="MongoDB Atlas" width="600" height="450"/>
 </p>
 
 
