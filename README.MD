@@ -105,13 +105,16 @@ Base URL: `/api/books`
 
 ## 📸 Screenshots
 
-Add your own screenshots by uploading them in your GitHub repo.
+###  Thunder Client - POST request
+<img src="screenshots/ThunderClient-POST.png" alt="GET All Books" width="600"/>
+
+###  MongoDB Atlas - Stored Books
+<img src="screenshots/MongoDB-atlas.png" alt="MongoDB Atlas" width="600"/>
 
 
 
 
-![POST request](screenshots/ThunderClient-POST.png)
-![MongoDB Atlas](screenshots/MongoDB-atlas.png)
+
 
 
 ---
