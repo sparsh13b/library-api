@@ -107,18 +107,12 @@ Base URL: `/api/books`
 
 Add your own screenshots by uploading them in your GitHub repo.
 
-### ✍️ How to Add Screenshots:
-1. Take screenshots of:
-   - Thunder Client POST request
-   - MongoDB Atlas data
-   - API folder structure in VS Code
-2. Save them inside a `screenshots/` folder in your project.
-3. Reference them like:
 
-```markdown
+
+
 ![POST request](screenshots/ThunderClient-POST.png)
 ![MongoDB Atlas](screenshots/MongoDB-atlas.png)
-```
+
 
 ---
 
