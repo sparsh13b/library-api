@@ -106,11 +106,14 @@ Base URL: `/api/books`
 ## 📸 Screenshots
 
 ###  Thunder Client - POST request
+<p align="center">
 <img src="screenshots/ThunderClient-POST.png" alt="GET All Books" width="600"/>
+</p>
 
 ###  MongoDB Atlas - Stored Books
+<p align="center">
 <img src="screenshots/MongoDB-atlas.png" alt="MongoDB Atlas" width="600"/>
-
+</p>
 
 
 
