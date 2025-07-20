@@ -1,4 +1,4 @@
-# 📚 Library API
+#  Library API
 
 A simple RESTful API built using **Node.js**, **Express**, and **MongoDB Atlas** to manage a collection of books. This API allows you to create, read, update, and delete (CRUD) book records via HTTP requests.
 
@@ -15,7 +15,7 @@ A simple RESTful API built using **Node.js**, **Express**, and **MongoDB Atlas**
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 library-api/
@@ -33,7 +33,7 @@ library-api/
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Connects to MongoDB Atlas using environment variables
 - RESTful endpoints for books
@@ -47,7 +47,7 @@ library-api/
 
 ---
 
-## ▶️ Getting Started (Run Locally)
+## ▶ Getting Started (Run Locally)
 
 1. **Clone the repo**
 
@@ -79,7 +79,7 @@ By default, server runs on:
 
 ---
 
-## 🔌 API Endpoints
+##  API Endpoints
 
 Base URL: `/api/books`
 
@@ -91,7 +91,7 @@ Base URL: `/api/books`
 | PUT    | `/api/books/:id`   | Update a book by ID  |
 | DELETE | `/api/books/:id`   | Delete a book by ID  |
 
-### 📦 Sample POST Body
+###  Sample POST Body
 ```json
 {
   "title": "Atomic Habits",
@@ -103,7 +103,7 @@ Base URL: `/api/books`
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ###  Thunder Client - POST request
 <p align="center">
@@ -127,7 +127,7 @@ Base URL: `/api/books`
 
 ---
 
-## 🌐 Deployment (Render)
+##  Deployment (Render)
 
 This project is deployed on **Render**.
 
@@ -139,7 +139,7 @@ This project is deployed on **Render**.
 
 
 
-## 🧠 Author
+
 
 **Sparsh Birla**  
 [LinkedIn](https://linkedin.com/in/sparshbirla/) | [GitHub](https://github.com/sparsh13b)
